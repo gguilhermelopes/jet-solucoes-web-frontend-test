@@ -9,7 +9,7 @@ const DataTable = () => {
         <MainTitle />
         <TableItems />
       </section>
-      <section className="m-8 md:hidden">
+      <section className="m-4 md:hidden">
         <MobileDataTable />
       </section>
     </>
