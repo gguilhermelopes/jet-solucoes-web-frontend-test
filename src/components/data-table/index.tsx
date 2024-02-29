@@ -1,5 +1,11 @@
+import MainTitle from "./MainTitle";
+
 const DataTable = () => {
-  return <div>DataTable</div>;
+  return (
+    <section className="p-8 grid grid-cols-8">
+      <MainTitle />
+    </section>
+  );
 };
 
 export default DataTable;
