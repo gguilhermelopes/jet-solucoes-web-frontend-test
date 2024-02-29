@@ -1,6 +1,6 @@
 const DotsVertical = () => {
   return (
-    <button>
+    <button aria-label="Actions button">
       <svg
         width="24"
         height="24"
