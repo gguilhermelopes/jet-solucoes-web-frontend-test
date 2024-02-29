@@ -4,7 +4,7 @@ import DotsVertical from "@/components/UI/DotsVertical";
 import AvailableBadge from "@/components/UI/AvailableBadge";
 import Rating from "../UI/Rating";
 
-type TableItemProps = {
+export type TableItemProps = {
   imageURL: string;
   label: string;
   reservation: string;
