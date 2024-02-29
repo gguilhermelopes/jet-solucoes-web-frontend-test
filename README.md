@@ -1,11 +1,11 @@
-# Open Dine
+# Teste técnico Jet Soluções Web
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/gguilhermelopes/jet-solucoes-web-frontend-test)
 ![GitHub language count](https://img.shields.io/github/languages/count/gguilhermelopes/jet-solucoes-web-frontend-test)
 ![Github repo size](https://img.shields.io/github/repo-size/gguilhermelopes/jet-solucoes-web-frontend-test)
 ![Github stars](https://img.shields.io/github/stars/gguilhermelopes/jet-solucoes-web-frontend-test?style=social)
 
-![Capa do Projeto](https://raw.githubusercontent.com/gguilhermelopes/jet-solucoes-web-frontend-test/public/docs/readme-img.png)
+![Capa do Projeto](https://raw.githubusercontent.com/gguilhermelopes/jet-solucoes-web-frontend-test/main/public/docs/readme-img.png)
 
 > Projeto, feito em Next, para um teste técnico da Jet Soluções Web.
 
